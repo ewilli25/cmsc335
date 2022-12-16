@@ -1,8 +1,8 @@
 {
-  "name": "summercamp",
+  "name": "courseServer",
   "version": "1.0.0",
   "description": "",
-  "main": "summerCampServer.js",
+  "main": "courseServer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
